@@ -3,6 +3,7 @@ I'm currently working on polishing my front-end skills.<br>
 I'm looking to collaborate on back-end development.<br>
 I'm looking for help with UI/UX design.<br>
 I'm currently learning Ruby on Rails.<br>
+Ask me about anything related to Ruby,Ruby on Rails and related technologies<br>
 Fun fact "I know a few stitching tricks 😊 😊 ."<br>
 
 
