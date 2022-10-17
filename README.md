@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on polishing my front-end skills.<br>I'm looking to collaborate on back-end development.<br>I'm looking for help with UI/UX design.<br>I'm currently learning Ruby on Rails.<br>Fun fact "I know a few stitching tricks."<br>
+![image](https://user-images.githubusercontent.com/106312726/196165048-306057a3-ac2e-4fc3-b73d-4fe00aa51431.png) I'm currently working on polishing my front-end skills.<br>![image](https://user-images.githubusercontent.com/106312726/196164978-cfb0cd5e-f3c7-4d31-87ad-260302407fa3.png)
+ I'm looking to collaborate on back-end development.<br>![image](https://user-images.githubusercontent.com/106312726/196165143-b64b267b-583c-49ee-a72f-be49dc622a23.png)
+ I'm looking for help with UI/UX design.<br>![image](https://user-images.githubusercontent.com/106312726/196165203-fb4ce6fc-6774-438c-8738-9d00a709d1b8.png)
+ I'm currently learning Ruby on Rails.<br>![image](https://user-images.githubusercontent.com/106312726/196165259-bd55f431-c057-4d9b-874f-4e1bc711ee9b.png)
+ Fun fact "I know a few stitching tricks 😊 😊 ."<br>
 
 
 ## 🌐 Socials:
