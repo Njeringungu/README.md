@@ -1,9 +1,9 @@
 # 💫 About Me:
-telescope I'm currently working on polishing my front-end skills.<br>dancers
- I'm looking to collaborate on back-end development.<br>handshake
- I'm looking for help with UI/UX design.<br>seedling
- I'm currently learning Ruby on Rails.<br>zap
- Fun fact "I know a few stitching tricks 😊 😊 ."<br>
+I'm currently working on polishing my front-end skills.<br>
+I'm looking to collaborate on back-end development.<br>
+I'm looking for help with UI/UX design.<br>
+I'm currently learning Ruby on Rails.<br>
+Fun fact "I know a few stitching tricks 😊 😊 ."<br>
 
 
 ## 🌐 Socials:
